@@ -1,0 +1,15 @@
+C:\Users\SGame\CodeForces\WaterStation\bin\Debug\net7.0\WaterStation.exe
+C:\Users\SGame\CodeForces\WaterStation\bin\Debug\net7.0\WaterStation.deps.json
+C:\Users\SGame\CodeForces\WaterStation\bin\Debug\net7.0\WaterStation.runtimeconfig.json
+C:\Users\SGame\CodeForces\WaterStation\bin\Debug\net7.0\WaterStation.dll
+C:\Users\SGame\CodeForces\WaterStation\bin\Debug\net7.0\WaterStation.pdb
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.csproj.AssemblyReference.cache
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.AssemblyInfoInputs.cache
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.AssemblyInfo.cs
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.csproj.CoreCompileInputs.cache
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.dll
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\refint\WaterStation.dll
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.pdb
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\WaterStation.genruntimeconfig.cache
+C:\Users\SGame\CodeForces\WaterStation\obj\Debug\net7.0\ref\WaterStation.dll

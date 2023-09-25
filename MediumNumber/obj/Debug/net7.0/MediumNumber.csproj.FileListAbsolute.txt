@@ -1,0 +1,15 @@
+C:\Users\SGame\CodeForces\MediumNumber\bin\Debug\net7.0\MediumNumber.exe
+C:\Users\SGame\CodeForces\MediumNumber\bin\Debug\net7.0\MediumNumber.deps.json
+C:\Users\SGame\CodeForces\MediumNumber\bin\Debug\net7.0\MediumNumber.runtimeconfig.json
+C:\Users\SGame\CodeForces\MediumNumber\bin\Debug\net7.0\MediumNumber.dll
+C:\Users\SGame\CodeForces\MediumNumber\bin\Debug\net7.0\MediumNumber.pdb
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.csproj.AssemblyReference.cache
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.AssemblyInfoInputs.cache
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.AssemblyInfo.cs
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.csproj.CoreCompileInputs.cache
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.dll
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\refint\MediumNumber.dll
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.pdb
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\MediumNumber.genruntimeconfig.cache
+C:\Users\SGame\CodeForces\MediumNumber\obj\Debug\net7.0\ref\MediumNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\SGame\CodeForces\trespuntocatorce\bin\Debug\net7.0\trespuntocatorce.exe
+C:\Users\SGame\CodeForces\trespuntocatorce\bin\Debug\net7.0\trespuntocatorce.deps.json
+C:\Users\SGame\CodeForces\trespuntocatorce\bin\Debug\net7.0\trespuntocatorce.runtimeconfig.json
+C:\Users\SGame\CodeForces\trespuntocatorce\bin\Debug\net7.0\trespuntocatorce.dll
+C:\Users\SGame\CodeForces\trespuntocatorce\bin\Debug\net7.0\trespuntocatorce.pdb
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.csproj.AssemblyReference.cache
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.AssemblyInfoInputs.cache
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.AssemblyInfo.cs
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.csproj.CoreCompileInputs.cache
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.dll
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\refint\trespuntocatorce.dll
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.pdb
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\trespuntocatorce.genruntimeconfig.cache
+C:\Users\SGame\CodeForces\trespuntocatorce\obj\Debug\net7.0\ref\trespuntocatorce.dll
