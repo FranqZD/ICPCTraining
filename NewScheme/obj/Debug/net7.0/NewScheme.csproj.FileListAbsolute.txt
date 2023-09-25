@@ -1,0 +1,15 @@
+C:\Users\SGame\CodeForces\NewScheme\bin\Debug\net7.0\NewScheme.exe
+C:\Users\SGame\CodeForces\NewScheme\bin\Debug\net7.0\NewScheme.deps.json
+C:\Users\SGame\CodeForces\NewScheme\bin\Debug\net7.0\NewScheme.runtimeconfig.json
+C:\Users\SGame\CodeForces\NewScheme\bin\Debug\net7.0\NewScheme.dll
+C:\Users\SGame\CodeForces\NewScheme\bin\Debug\net7.0\NewScheme.pdb
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.csproj.AssemblyReference.cache
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.AssemblyInfoInputs.cache
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.AssemblyInfo.cs
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.csproj.CoreCompileInputs.cache
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.dll
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\refint\NewScheme.dll
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.pdb
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\NewScheme.genruntimeconfig.cache
+C:\Users\SGame\CodeForces\NewScheme\obj\Debug\net7.0\ref\NewScheme.dll
