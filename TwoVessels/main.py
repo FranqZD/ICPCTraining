@@ -8,7 +8,7 @@ for i in range(casos):
         Resta = abs(Datos[0]-Datos[1])
         contador+=1
 
-        if Resta>Datos[2]:
+        if (Resta/2)>Datos[2]:
             
             if(Datos[0]>Datos[1]):
                 Datos[1]+=Datos[2]
@@ -23,7 +23,7 @@ for i in range(casos):
                 Datos[1]+=((Resta)/2)
                 Datos[0]-=((Resta)/2)
                 
-            else:
+            else:   
                 Datos[1]-=((Resta)/2)
                 Datos[0]+=((Resta)/2)
                 
